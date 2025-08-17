@@ -2,7 +2,7 @@
 
 Esta aplicação Windows Forms em **C# (.NET 8)** implementa um **CRUD (Create, Read, Update, Delete)** simples utilizando **JSON** como base de dados.  
 
-<img width="702" height="326" alt="image" src="https://github.com/user-attachments/assets/45aee19c-e313-4bc3-a55b-0be63d6743a1" />
+<img width="714" height="336" alt="image" src="https://github.com/user-attachments/assets/dd6e078b-468f-4b7e-a60f-12eba9a550c3" />
 
 
 ### Funcional
